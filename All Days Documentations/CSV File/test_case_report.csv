@@ -1,0 +1,6 @@
+Test Case ID,Test Description,Steps,Expected,Actual,Status,Severity,Assigned,Remarks
+TC001,Verify Home Page,"Open home page, check main sections",Home page loads with all sections,To be tested,Pending,Medium,Ameen,
+TC002,Product Navigation,"Click on a product, verify navigation",Navigates to correct product detail page,To be tested,Pending,High,Ameen,
+TC003,Add to Cart Functionality,"Add product to cart, check cart",Product is successfully added to cart,To be tested,Pending,High,Ameen,
+TC004,Cart Display,"Add multiple items, verify cart count",Cart shows the correct number of items,To be tested,Pending,Medium,Ameen,
+TC005,Checkout Process,"Proceed to checkout, complete purchase",Purchase is completed successfully,To be tested,Pending,Critical,Ameen,
